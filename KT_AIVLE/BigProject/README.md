@@ -10,4 +10,4 @@
 - my role : **기술총괄**  
 
 #### pipeline
-<img src='https://github.com/Choe-minsung/img/blob/81cf7d04d697da8482aa6032cad7d5cf5bc1f605/DX%2025%EC%A1%B0%20%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg' width='300'/>
+<img src='https://github.com/Choe-minsung/img/blob/81cf7d04d697da8482aa6032cad7d5cf5bc1f605/DX%2025%EC%A1%B0%20%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg' width='700'/>
