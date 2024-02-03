@@ -8,7 +8,7 @@
 - stack : Python (Jupyter Notebook, Colab)
 
 #### pipeline
-- Text Classification  
+- **Text Classification** 
 1. 데이터전처리 : 개행제거, 특수문자제거, 단어분리, 불용어 제거, 한글자 제거
 2. 데이터탐색 : 단어갯수측정, padding 갯수지정
 3. 단어사전 만들기 : 빈도 수 측정, 빈도 수 합계(비율) 측정, 단어사전 크기 지정, 토큰화(단어 인덱스화)
@@ -17,7 +17,7 @@
 
 <img src='https://github.com/Choe-minsung/Project/blob/30697abd83ebf9ce68347d0470adde29653ed337/KT_AIVLE/MiniProject/P4/WC.png' width='700'/>
 
-- Object Detection
+- **Object Detection**
 1. Video → Image 추출 (OpenCV)
 2. Roboflow에 Car Labeled dataset 가져오기, yaml parsing
 3. Yolov5n ~ Yolov5x 학습
