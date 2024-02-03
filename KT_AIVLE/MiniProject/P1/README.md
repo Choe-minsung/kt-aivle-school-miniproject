@@ -1,13 +1,11 @@
 # Mini Project 1
 
-### subject : 119 병원선정 솔루션
-
-<img src='https://github.com/Choe-minsung/img/blob/5ff97862ab3979be92201199a3f97c28eb3ca156/119%EB%B3%91%EC%9B%90%EC%84%A0%EC%A0%95%EC%86%94%EB%A3%A8%EC%85%98_thumbnail.png' width='300'/>
+### subject : 토익점수 데이터 탐색 & 이탈고객의 구매패턴 탐색
 
 - duration : 2023.08.24 ~ 2023.08.25
 - stack : Python (Jupyter Notebook)
 
 #### pipeline
-1. 중증질환 예측 모델링
-2. streamlit 대시보드 개발
-<img src='https://github.com/Choe-minsung/img/blob/60166a51c4b1c1ca14828072f18e6b3eb3c883ea/119%EB%B3%91%EC%9B%90%EC%84%A0%EC%A0%95_pipeline.png' width='500'/>
+1. 데이터전처리
+2. 데이터파싱
+<img src='https://github.com/Choe-minsung/Project/blob/ccc604767111d9639664939d2ad71932a952fec5/KT_AIVLE/MiniProject/P1/chart.png' width='500'/>
