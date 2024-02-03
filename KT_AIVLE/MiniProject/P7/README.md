@@ -1,5 +1,5 @@
 
-# Mini Project 2
+# Mini Project 7
 
 ### subject : 시각장애인 문화재 관람 스마트 환경 조성 사업 [제안전략 & 제안PT]
 
