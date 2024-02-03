@@ -1,6 +1,6 @@
 
 
-# Mini Project 2
+# Mini Project 6
 
 ### subject : 시각장애인 문화재 관람 스마트 환경 조성 사업 [DX 솔루션 기획 & 인프라 설계]
 
