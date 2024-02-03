@@ -4,7 +4,7 @@
 
 ### Mini Project 2
 
-[**토익 점수 데이터 분석 &** 주차 등록 수요 데이터분석](https://www.notion.so/697b4bf35086435db2c671b5dd37e13e?pvs=21)
+[토익 점수 데이터 분석 & 주차 등록 수요 데이터분석](https://www.notion.so/697b4bf35086435db2c671b5dd37e13e?pvs=21)
 
 ### Mini Project 3
 
@@ -16,12 +16,14 @@
 
 ### Mini Project 5
 
-[**119 병원선정 솔루션 [AI 모델링 & 프로토타입]**](https://www.notion.so/119-AI-66742124e55c4d37adadb60a462d8acb?pvs=21)
+[119 병원선정 솔루션 [AI 모델링 & 프로토타입]](https://www.notion.so/119-AI-66742124e55c4d37adadb60a462d8acb?pvs=21)
 
 ### Mini Project 6
 
-[**시각장애인 문화재 관람 스마트 환경 조성 사업 [**DX 솔루션 기획 & 인프라 설계]](https://www.notion.so/DX-c0e0ee7abca8470eb9aaa95772b3857d?pvs=21)
+[시각장애인 문화재 관람 스마트 환경 조성 사업 [DX 솔루션 기획 & 인프라 설계]](https://www.notion.so/DX-c0e0ee7abca8470eb9aaa95772b3857d?pvs=21)
 
 ### Mini Project 7
 
-[**시각장애인 문화재 관람 스마트 환경 조성 사업 [제안전략 & 제안PT]**](https://www.notion.so/PT-08380fab0e4040e69f72c4884edb6bed?pvs=21)
+[시각장애인 문화재 관람 스마트 환경 조성 사업 [제안전략 & 제안PT]](https://www.notion.so/PT-08380fab0e4040e69f72c4884edb6bed?pvs=21)
+
+(Linked by Portfolio)
