@@ -5,7 +5,8 @@
 <img src='https://github.com/Choe-minsung/img/blob/6c34e9e2bca77ec91e258a19ecddd74481548680/DX%2025%EC%A1%B0%20%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg' width='300'/>
 
 - duration : 2023.12.11 ~ 2024.01.12
-- stack : Python (Jupyter Notebook)
+- stack : Python (Jupyter Notebook) / Streamlit (Prototype)
+- tool : Figma (UI/UX) / Adobe PremierePro (Video Editing)
 - member : PM 1 / **기술** 3 / 기획 2 / 영상 1
 - my role : **기술총괄**  
 
