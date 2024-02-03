@@ -1,6 +1,6 @@
 
 
-# Mini Project 5
+# Mini Project 4
 
 ### subject : 1:1문의 텍스트 분류 [LSTM] & 차량 Object Detection [Yolov5]
 
