@@ -10,6 +10,8 @@
 #### pipeline
 1. 데이터분석
 2. 모델구현(ML)
+<img src='https://github.com/Choe-minsung/Project/blob/46c0f38f50cb0209be7335f0f85d1a65d0dd338a/KT_AIVLE/MiniProject/P3/%ED%96%89%EB%8F%99%EC%B6%94%EB%A1%A0.png' width='700'/>
+
 3. 튜닝 및 행동추론
 
 <img src='https://github.com/Choe-minsung/Project/blob/46c0f38f50cb0209be7335f0f85d1a65d0dd338a/KT_AIVLE/MiniProject/P3/%ED%96%89%EB%8F%99%EC%B6%94%EB%A1%A0.png' width='700'/>
