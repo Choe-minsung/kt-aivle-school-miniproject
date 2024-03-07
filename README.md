@@ -26,4 +26,6 @@
 
 [시각장애인 문화재 관람 스마트 환경 조성 사업 [제안전략 & 제안PT]](https://www.notion.so/PT-08380fab0e4040e69f72c4884edb6bed?pvs=21)
 
-(Linked by Portfolio)
+
+---
+(링크를 누르면 포트폴리오로 연결됩니다.)
